@@ -17,6 +17,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
 
 </div>
 
-![gitgif](https://github.com/biatrizch/biatrizch/assets/83125656/bb434f9c-3660-4081-8b77-246348f1050f)
+<div>
+<gif height="30" width="40" src = ![gitgif](https://github.com/biatrizch/biatrizch/assets/83125656/bb434f9c-3660-4081-8b77-246348f1050f) >
+
+</div>
 
 

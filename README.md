@@ -14,7 +14,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="center" alt="Rafa-yoda" scr="file:///C:/Users/chen3/Downloads/download20231006180833.png">
+![gitgif](https://github.com/biatrizch/biatrizch/assets/83125656/bb434f9c-3660-4081-8b77-246348f1050f)
+
+
 
     
 </div>
+
+

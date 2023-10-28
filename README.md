@@ -14,7 +14,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="right" alt="Rafa-yoda" scr="https://cdn.discordapp.com/attachments/1167933735979720837/1167935738231406633/spider.gif?ex=654fefeb&is=653d7aeb&hm=57dc65abcbbc6b044c68b985780d523c83605e5d8fa43c2d0e788f4518129dea&">
+  <img align="right" alt="Rafa-yoda" scr="https://cdn.discordapp.com/attachments/1167933735979720837/1167935738231406633/spider.gif">
 
     
 </div>

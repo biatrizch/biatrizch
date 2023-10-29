@@ -2,7 +2,14 @@
 ![github banner2](https://github.com/biatrizch/biatrizch/assets/83125656/a8b3544a-86e3-4b46-b88d-0f0bf28841cb)
 
 
-### Hi there 👋
+### ✨About me
+
+
+I'm an Environmental Management student at the University of São Paulo and I'm currently self-studying Python (and its libraries such as Pandas, NumPy and Matplotlib) through online courses because I aspire to become a data analyst. 
+
+Besides programming, I'm keen on graphic design, having also learned the tools of Photoshop and Illustrator during the 2020 pandemic by myself ~ I love graphic design!🖌️
+
+In addition, I have advanced English and German, speak fluent Portuguese, and if you want to try, I can understand some intermediate-level Mandarin. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  

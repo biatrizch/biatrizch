@@ -5,7 +5,7 @@
 ### ✨About me
 
 
-I'm an Environmental Management student at the University of São Paulo and I'm currently self-studying Python (and its libraries such as Pandas, NumPy and Matplotlib) through online courses because I aspire to become a data analyst. 
+I'm an Environmental Management student at the University of São Paulo and I'm currently self-studying Python - and its libraries such as Pandas, NumPy and Matplotlib - through online courses because I aspire to become a Data Analyst. 
 
 Besides programming, I'm keen on graphic design, having also learned the tools of Photoshop and Illustrator during the 2020 pandemic by myself ~ I love graphic design!🖌️
 

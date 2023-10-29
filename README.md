@@ -21,10 +21,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
-<p>
-
-</p>
-
 
 ### 🍒 Other platforms
 <div> 

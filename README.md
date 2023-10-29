@@ -14,7 +14,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
   
 </p>
 
-## 🍒 You can find me here:
+🍒 You can find me here:
 <div> 
  <a href="https://www.linkedin.com/in/beatrizchen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.behance.net/biatrizch" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"_blank"></a> 

@@ -1,4 +1,4 @@
-![testegit](https://github.com/biatrizch/biatrizch/assets/83125656/b838c078-2dde-4561-a1af-5bef2945f943)
+
 
 ### Hi there 👋
 

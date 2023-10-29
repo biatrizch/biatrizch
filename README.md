@@ -9,7 +9,7 @@ I'm an Environmental Management student at the University of São Paulo and I'm 
 
 Besides programming, I'm keen on graphic design, having also learned the tools of Photoshop and Illustrator during the 2020 pandemic by myself ~ I love graphic design!🖌️
 
-In addition, I have advanced English and German, speak fluent Portuguese, and if you want to try, I can understand some intermediate-level Mandarin. 
+In addition, I have advanced English and German, speak fluent Portuguese, and if you want to try, I can understand some intermediate-level Mandarin😅 
 
 ### 👩‍💻 Tech Tools
 <div style="display: inline_block"><br>

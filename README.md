@@ -1,5 +1,6 @@
 
-![github banner3](https://github.com/biatrizch/biatrizch/assets/83125656/6bf78246-e10e-4b08-94a8-d178233e5d87)
+![github banner2](https://github.com/biatrizch/biatrizch/assets/83125656/a8b3544a-86e3-4b46-b88d-0f0bf28841cb)
+
 
 ### Hi there 👋
 

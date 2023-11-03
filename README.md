@@ -33,9 +33,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
 <gif height="30" width="40" src = "![gitgif](https://github.com/biatrizch/biatrizch/assets/83125656/bb434f9c-3660-4081-8b77-246348f1050f)" >
 </div>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### ⚡ Stats ⚡
+<br>
+<div>
+  <img width=395 src="https://github-readme-stats.vercel.app/api?username=biatrizch&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <p>
+    
+  </p>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=biatrizch&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
+ 
+</div>
+
+<br/><br/>
+<hr/>
+
+
 
 
 
